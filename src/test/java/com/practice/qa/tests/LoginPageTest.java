@@ -45,8 +45,5 @@ public class LoginPageTest extends TestBase {
 	{
 		driver.quit();
 	}
-	
-	
-	
 
 }

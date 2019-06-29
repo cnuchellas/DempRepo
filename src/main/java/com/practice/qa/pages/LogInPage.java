@@ -38,10 +38,5 @@ public class LogInPage extends TestBase{
 		
 		return driver.getTitle();
 	}
-	
-	
-	
-	
-	
 
 }
