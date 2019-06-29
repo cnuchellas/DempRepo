@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Practice - Suite">
+	
+	<listeners>
+	
+	<listener class-name ="com.practise.qa.Reporter.ExtentReporterNG" />
+	
+	</listeners>
+	
+	<test name="Practice testcases">
+		<classes>
+			<class name="com.practice.qa.tests.LoginPageTest" />
+		</classes>
+	</test>
+</suite> 
